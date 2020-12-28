@@ -1,7 +1,6 @@
 ### WELCOME! 👋
 
 ![](https://komarev.com/ghpvc/?username=zirionneft&color=blueviolet&label=PROFILE+VISITS)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I am an enthusiast-developer that currently focusing in programming with 🖥️`TypeScript` language and by the same time is trying to learn something new ✨💡
 
