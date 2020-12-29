@@ -1,18 +1,22 @@
-### WELCOME! 👋
+#### WELCOME! 👋
 
 ![](https://komarev.com/ghpvc/?username=zirionneft&color=blueviolet&label=PROFILE+VISITS)
 
 My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I am an enthusiast-developer that currently focusing in programming with 🖥️`TypeScript` language and by the same time is trying to learn something new ✨💡
 
 ### SKILLS & TOOLS
+
+## Environment
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=8f4ad4)
 ![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=8f4ad4)
 
+## Code
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=PHP&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=cccf30)
 
+## Technologies
 ![](https://img.shields.io/badge/Frontend-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
