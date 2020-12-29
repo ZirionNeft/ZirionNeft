@@ -5,7 +5,28 @@
 My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I am an enthusiast-developer that currently focusing in programming with 🖥️`TypeScript` language and by the same time is trying to learn something new ✨💡
 
 ### SKILLS & TOOLS
-todo
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Frontend-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+
 
 ### MY STATS
 <table>
