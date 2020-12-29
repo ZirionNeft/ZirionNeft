@@ -45,4 +45,4 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I 
 </table>
 
 ### CONTACT ME
-[![](https://img.shields.io/badge/Discord.js-informational?style=flat&logo=discord&logoColor=white&color=7289da)](https://discordapp.com/users/276082822861684737)
+[![](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=7289da)](https://discordapp.com/users/276082822861684737)
