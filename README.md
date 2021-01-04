@@ -27,6 +27,7 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I 
 ![](https://img.shields.io/badge/Frontend-mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2eadc9)
+![](https://img.shields.io/badge/Backend-Sequelize-informational?style=flat&logo=javascript&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2eadc9)
