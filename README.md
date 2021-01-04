@@ -7,8 +7,10 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I 
 ### SKILLS & TOOLS
 
 #### Environment
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=8f4ad4)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=e95420)
 ![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=8f4ad4)
+![](https://img.shields.io/badge/Keyboard-logi%20MX%20Keys-informational?style=flat&logo=Logitech&logoColor=white&color=00b8fc)
+![](https://img.shields.io/badge/Display-Xiaomi%20Mi%20Surface%20Display%2034%22-informational?style=flat&logo=Xiaomi&logoColor=white&color=fa6709)
 
 #### Code
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cccf30)
@@ -46,3 +48,4 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I 
 
 ### CONTACT ME
 [![](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=7289da)](https://discordapp.com/users/276082822861684737)
+[![](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white&color=26a5e4)](https://t.me/ohMidnight)
