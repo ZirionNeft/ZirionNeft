@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zirionneft&color=blueviolet&label=PROFILE+VISITS)
 
-My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I am an enthusiast-developer that currently focusing in programming with 🖥️`TypeScript` language and by the same time is trying to learn something new ✨💡
+My name is 😁`Nikita Kryukov`, I am from 🗺️`Novosibirsk (Russia)`, and I am an enthusiast-developer who is currently focusing in programming with 🖥️`TypeScript` language and by the same time is trying to learn something new ✨💡
 
 ### SKILLS & TOOLS
 
