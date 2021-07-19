@@ -27,9 +27,9 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`St. Petersburg (Russia)`, and
 ![](https://img.shields.io/badge/Frontend-mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2eadc9)
-![](https://img.shields.io/badge/Backend-Nest.js-informational?style=flat&logo=javascript&logoColor=white&color=ea2845)
+![](https://img.shields.io/badge/Backend-Nest.js-informational?style=flat&logo=javascript&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-Sequelize-informational?style=flat&logo=javascript&logoColor=white&color=2eadc9)
-![](https://img.shields.io/badge/Backend-TypeOrm-informational?style=flat&logo=javascript&logoColor=white&color=e83524)
+![](https://img.shields.io/badge/Backend-TypeOrm-informational?style=flat&logo=javascript&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2eadc9)
