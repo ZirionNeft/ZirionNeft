@@ -18,15 +18,18 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`St. Petersburg (Russia)`, and
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=PHP&logoColor=white&color=cccf30)
 
 #### Technologies
-![](https://img.shields.io/badge/Frontend-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Bulma-informational?style=flat&logo=Bulma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-TailwindCss-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-mocha-informational?style=flat&logo=mocha&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2eadc9)
+![](https://img.shields.io/badge/Backend-Nest.js-informational?style=flat&logo=Nest.js&logoColor=white&color=ea2845)
 ![](https://img.shields.io/badge/Backend-Sequelize-informational?style=flat&logo=javascript&logoColor=white&color=2eadc9)
+![](https://img.shields.io/badge/Backend-TypeOrm-informational?style=flat&logo=typeorm&logoColor=white&color=e83524)
 ![](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-NGINX-informational?style=flat&logo=NGINX&logoColor=white&color=2eadc9)
 ![](https://img.shields.io/badge/Backend-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2eadc9)
