@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=zirionneft&color=blueviolet&label=PROFILE+VISITS)
 
 My name is 😁`Nikita Kryukov`, I am from 🗺️`St. Petersburg (Russia)`, and I am an enthusiast-developer who is currently focusing in programming with 🖥️`TypeScript` language and at the same time is trying to learn something new ✨💡
+Also recently I've start to learning about blockchain technologies, and if you would like to see my progress - take a look the pinned repository!
 
 ### SKILLS & TOOLS
 
