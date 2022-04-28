@@ -14,7 +14,7 @@ My name is 😁`Nikita Kryukov`, I am from 🗺️`St. Petersburg (Russia)`, and
 
 #### Code
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cccf30)
-![](https://img.shields.io/badge/Lang-Rust-informational?style=flat&logo=Rust&logoColor=white&color=3b2e2a)
+![](https://img.shields.io/badge/Lang-Rust-informational?style=flat&logo=Rust&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=PHP&logoColor=white&color=cccf30)
 
