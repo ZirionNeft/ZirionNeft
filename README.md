@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=zirionneft&color=blueviolet&label=PROFILE+VISITS)
 
-My name is 😁`Nikita Kryukov`, I am from 🗺️`St. Petersburg (Russia)`, and I am an enthusiast-developer who is currently focusing in programming with 🖥️`TypeScript` language and at the same time is trying to learn something new ✨💡
-I have more than 5 years of clear commercial experience which 2 of them is crypto projects development.
+My name is 😁`Nikita Kryukov`, I am from 🗺️`St. Petersburg`, and I am an enthusiast-developer focusing on `NodeJS` with 🖥️`TypeScript`.
+I have more than 6 years of clear commercial experience which 3 of them is crypto projects development.
 
 ### SKILLS & TOOLS
 
