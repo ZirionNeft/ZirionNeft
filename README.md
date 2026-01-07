@@ -16,7 +16,6 @@ I have more than 6 years of clear commercial experience which 3 of them is crypt
 #### Code
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=flat&logo=Rust&logoColor=white&color=cccf30)
-![](https://img.shields.io/badge/Lang-Go-Lang-informational?style=flat&logo=JavaScript&logoColor=white&color=cccf30)
 
 #### Stack
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2eadc9)
