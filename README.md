@@ -27,13 +27,5 @@ I have more than 6 years of clear commercial experience which 3 of them is crypt
 
 
 ### MY STATS
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=zirionneft&theme=synthwave&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=zirionneft&theme=synthwave&layout=compact&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-  </tr>
-</table>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
