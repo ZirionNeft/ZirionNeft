@@ -7,12 +7,6 @@ I have more than 6 years of clear commercial experience which 3 of them is crypt
 
 ### SKILLS & TOOLS
 
-#### Environment
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=e95420)
-![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=8f4ad4)
-![](https://img.shields.io/badge/Keyboard-NuPhy%20Air75-informational?style=flat&logo=windowsterminal&logoColor=white&color=00b8fc)
-![](https://img.shields.io/badge/Display-Xiaomi%20Mi%20Surface%20Display%2034%22-informational?style=flat&logo=Xiaomi&logoColor=white&color=fa6709)
-
 #### Code
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cccf30)
 ![](https://img.shields.io/badge/Lang-Rust-informational?style=flat&logo=Rust&logoColor=white&color=cccf30)
